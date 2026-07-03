@@ -1,8 +1,8 @@
 # ⚽ Euro 2024 Football Analytics — Shot Map, xG Analysis \& Pass Map
 
-!\[Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square\&logo=python)
-!\[StatsBomb](https://img.shields.io/badge/Data-StatsBomb%20Open%20Data-red?style=flat-square)
-!\[License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
+![StatsBomb](https://img.shields.io/badge/Data-StatsBomb%20Open%20Data-red?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 A football analytics project built using **StatsBomb's free open data**, analysing team and player performance across the **UEFA Euro 2024** tournament. The project produces three professional-grade visualisations: a shot map, an xG leaderboard, and a progressive pass map.
 
